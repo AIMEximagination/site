@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Home Page](README.md)
+* [Website context](README.md)
+* [Home Page v.01](home-page-v.01.md)
 * [Map](map.md)
 * [Act Now](act-now.md)
 * [The VISA Office](the-visa-office.md)
