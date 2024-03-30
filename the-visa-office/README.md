@@ -1,8 +1,8 @@
-# Home Page
+# The VISA Office
 
-IMAGI-NATION addresses inequity by shifting the way we are networked.
+<details>
 
-—————————
+<summary>Visa office context</summary>
 
 Welcome the the VISA Office!
 
@@ -28,3 +28,13 @@ Outstanding VISA contributions to alleviating inequity will gain access to:
 * Flights and Accommodation to STORY experiences in embassy with the IMAGI-NATION Embassy around the world.
 
 If full accreditation is not obtained, these VISA holders will leave with knowledge, and their passport that they can trade on in Planet Earth for what they did achieve.
+
+</details>
+
+* Active VISAS
+  * Links through to passport template for each VISA as the Ad - age, requirements, impact
+* Contact the VISA office
+* VISAS coming soon
+* Pitch in your own VISA idea
+
+Add in all hoodies images here (folder)
