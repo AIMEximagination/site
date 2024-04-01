@@ -28,3 +28,4 @@
 * [FAQs](faqs.md)
 * [Website context](<README (1).md>)
 * [All pages](all-pages.md)
+* [How we blog](how-we-blog.md)
