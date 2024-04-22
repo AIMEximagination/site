@@ -10,6 +10,7 @@
     * [IMAGI-NATION Presidents](the-visa-office/action-visas/imagi-nation-presidents-1.md)
     * [Imagination Labs](the-visa-office/action-visas/imagination-labs.md)
     * [Systems Change Citizens](the-visa-office/action-visas/systems-change-citizens.md)
+  * [Golden Ticket Visa campaign](the-visa-office/golden-ticket-visa-campaign.md)
 * [Impact](impact.md)
 * [Tool Shed](tool-shed.md)
 * [Communications](communications/README.md)
