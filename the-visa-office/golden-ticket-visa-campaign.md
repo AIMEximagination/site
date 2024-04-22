@@ -14,4 +14,4 @@
 12. The call to action for the Friday acts should be clear and focused on these new initiatives.
 13. The team should focus on their individual responsibilities within the embassy to deliver tools and continue building bridges and deepening the system.
 
-CopyRetry
+<figure><img src="../.gitbook/assets/IMG_2439.jpeg" alt=""><figcaption></figcaption></figure>
